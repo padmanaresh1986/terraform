@@ -41,6 +41,10 @@ To supply input using variables file
 >terraform apply -var-file terraform-dev.tfvars  
 
 
+Further code examples  
+>https://gitlab.com/nanuchi/udemy-terraform-learn  
+
+
 
 
 
